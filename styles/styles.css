@@ -60,3 +60,8 @@ a {
   .title {
     margin-top: 125px;
   }
+
+  /*making paragraphs not go past 50% to insert images on the right side*/ 
+  p{
+    max-width: 50%;
+  }
