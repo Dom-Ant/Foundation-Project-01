@@ -16,7 +16,6 @@ html{
 }
 
 .paragraph{
-    text-align: left;
     text-align: justify;
     float: left;
     width: 50%;
@@ -49,4 +48,9 @@ html{
 
 .MJ{
     padding-top: 0px;
+    margin-top: 0px;
+}
+.nav-link{
+    text-align: left;
+    font-size: 15px;
 }
