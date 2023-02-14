@@ -65,24 +65,3 @@ a {
   p{
     max-width: 50%;
   }
-
-  .content-left30 {
-    width: 30%;
-    justify-content: left;
-  }
-
-  .content-left70 {
-    width: 70%;
-    justify-content: left;
-  }
-  
-
-  .content-right30 {
-    width: 30%;
-    justify-content: right;
-  }
-
-  .content-right70 {
-    width: 70%;
-    justify-content: right;
-  }
