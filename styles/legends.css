@@ -1,0 +1,60 @@
+html {
+    font-family: monospace;
+}
+
+.col {
+    display: inline-block;
+}
+
+.row {
+    width: 70%;
+    padding-left: 100px;
+}
+
+.pic {
+    width: 300px;
+    float: right;
+    border: 1px dotted goldenrod;
+}
+
+.paragraph {
+    text-align: justify;
+    float: left;
+    width: 50%;
+    padding-right: 59px;
+    padding-top: 50px;
+}
+
+.title {
+    padding-left: 35px;
+}
+
+.main-title-red {
+    color: red;
+}
+
+.main-title-yellow {
+    color: gold;
+}
+
+.main-title-black {
+    color: black;
+}
+
+.footer {
+    margin-top: 50px;
+    margin-left: 50px;
+    padding-top: 25px;
+    padding-left: 25px;
+    width: 80%;
+    border-top: 1px solid orangered;
+}
+
+.quote {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.MJ {
+    padding-top: 0px;
+    margin-top: 0px;
+}
