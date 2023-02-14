@@ -1,3 +1,6 @@
+html{
+    font-family: monospace;
+}
 .col{
     display: inline-block;
 }
@@ -34,4 +37,16 @@
 
 .main-title-black{
     color: black;
+}
+
+.footer{
+    margin-top: 50px;
+}
+
+.quote{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.MJ{
+    padding-top: 0px;
 }
