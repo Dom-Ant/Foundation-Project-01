@@ -1,0 +1,37 @@
+.col{
+    display: inline-block;
+}
+.row{
+    width: 70%;
+    padding-left: 100px;
+}
+
+.pic{
+    width: 300px;
+    float: right;
+    border: 1px dotted goldenrod;
+}
+
+.paragraph{
+    text-align: left;
+    text-align: justify;
+    float: left;
+    width: 50%;
+    padding-right: 59px;
+    padding-top: 50px;
+}
+
+.title{
+    padding-left: 35px;
+}
+.main-title-red{
+    color: red;
+}
+
+.main-title-yellow{
+    color: gold;
+}
+
+.main-title-black{
+    color: black;
+}
