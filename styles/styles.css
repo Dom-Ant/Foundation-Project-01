@@ -56,7 +56,44 @@ a {
     margin-top: 125px;
   }
 
+
+  h1 {
+    margin-top: 100px;
+  }
+
+  
   /*making paragraphs not go past 50% to insert images on the right side*/ 
   p{
     max-width: 50%;
+  }
+
+
+  .content-left30 {
+    max-width: 30%;
+    justify-content: left;
+    text-align: left;
+    flex-direction: column;
+
+  }
+
+  .content-left70 {
+    max-width: 70%;
+    justify-content: left;
+    text-align: left;
+    flex-direction: column;
+  }
+  
+
+  .content-right30 {
+    width: 30%;
+    justify-content: right;
+    text-align: right;
+    flex-direction: column;
+  }
+
+  .content-right70 {
+    width: 70%;
+    justify-content: right;
+    text-align: right;
+    flex-direction: column;
   }
