@@ -1,21 +1,23 @@
-html{
+html {
     font-family: monospace;
 }
-.col{
+
+.col {
     display: inline-block;
 }
-.row{
+
+.row {
     width: 70%;
     padding-left: 100px;
 }
 
-.pic{
+.pic {
     width: 300px;
     float: right;
     border: 1px dotted goldenrod;
 }
 
-.paragraph{
+.paragraph {
     text-align: justify;
     float: left;
     width: 50%;
@@ -23,34 +25,36 @@ html{
     padding-top: 50px;
 }
 
-.title{
+.title {
     padding-left: 35px;
 }
-.main-title-red{
+
+.main-title-red {
     color: red;
 }
 
-.main-title-yellow{
+.main-title-yellow {
     color: gold;
 }
 
-.main-title-black{
+.main-title-black {
     color: black;
 }
 
-.footer{
+.footer {
     margin-top: 50px;
+    margin-left: 50px;
+    padding-top: 25px;
+    padding-left: 25px;
+    width: 80%;
+    border-top: 1px solid orangered;
 }
 
-.quote{
+.quote {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.MJ{
+.MJ {
     padding-top: 0px;
     margin-top: 0px;
-}
-.nav-link{
-    text-align: left;
-    font-size: 15px;
 }
