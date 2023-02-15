@@ -1,4 +1,10 @@
 /* Path: styles/styles.css */
+
+
+body {
+
+}
+
 .wrapper {
     position: relative;
     margin: 0px;
@@ -16,6 +22,31 @@ header {
     display: flex;
     align-items: center;
     background-color: orange;
+}
+
+footer {
+  position: fixed;
+  height: 50px;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: orange;
+}
+
+
+.social-icons {
+  padding-left: 460px;
+  padding-right: 460px;
+  font-size: 2rem;
+  font-color: black;
+  float: ;
+  width: 100%;
+}
+
+.social-icons:hover {
+  font-weight: bold;  
 }
 
 #home-btn {
@@ -48,9 +79,11 @@ a {
   }
 
   /* makes links bold on hover */
+
   .nav-link:hover {
     font-weight: bold;  
   }
+
 
   .title {
     margin-top: 125px;
