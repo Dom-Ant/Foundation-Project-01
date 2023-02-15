@@ -2,7 +2,96 @@
 
 
 body {
+    margin: 75px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+  }
 
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .wrapper {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  header {
+    position: fixed;
+    min-height: 60px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 5px 20px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    background-color: orange;
+  }
+
+  footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: orange;
+  }
+
+  .social-icons {
+    padding-left: 460px;
+    padding-right: 460px;
+    font-size: 2rem;
+    font-color: black;
+    float: ;
+    width: 100%;
+  }
+
+  #icons:hover {
+    font-weight: bold;
+    text-shadow: 0 0 4px #c05243;
+  }
+
+  #home-btn {
+    align-items: left;
+    width: 50px;
+    height: auto;
+  }
+
+  nav > ul {
+    width: 70vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 10%;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  .nav-link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+  }
+
+  /* makes links bold on hover */
+
+  .nav-link:hover {
+    font-weight: bold;
+    text-shadow: 0
 }
 
 .wrapper {
