@@ -45,8 +45,9 @@ footer {
   width: 100%;
 }
 
-.social-icons:hover {
-  font-weight: bold;  
+#icons:hover {
+  font-weight: bold;
+  text-shadow: 0 0 4px #c05243;    
 }
 
 #home-btn {
@@ -81,7 +82,8 @@ a {
   /* makes links bold on hover */
 
   .nav-link:hover {
-    font-weight: bold;  
+    font-weight: bold;
+    text-shadow: 0 0 4px #c05243;    
   }
 
 
