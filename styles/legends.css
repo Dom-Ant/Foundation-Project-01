@@ -2,25 +2,9 @@ html {
     font-family: monospace;
 }
 
-/* body{
-    background-color: bisque;
-    text-align: center;
-}  */
-
-/* .col {
-    display: inline-block;
-    width: 25%;
-}
-
-.row {
-    width: 90%;
-    padding-left: 100px;
-} */
-
-/* .pic {
+.pic {
     width: 80%;
-}  */
-
+}  
 .paragraph {
     max-width: 100%;
     text-align: justify;
@@ -54,31 +38,37 @@ html {
     color: rgb(255, 255, 255);
 }
 
-/* .footer-legends {
+.footer-legends {
     margin-top: 15px;
-    margin-left: 50px;
     padding-top: 15px;
     padding-left: 25px;
     width: 80%;
     border-top: 1px solid orangered;
-} */
+} 
+
+.p-links{
+    border: none;
+    background-color: bisque;
+}
 
 .quote {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: bisque;
 }
 
-/* .MJ-p {
+.MJ-p {
     padding-top: 10px;
     margin-top: 0px;
 }
 
 .MJ-img{
-    padding-bottom: 694px;
+    padding-bottom: 50px;
 }
 .mamba-p{
     width: 70%;
     margin-top: 50px;
     text-align: center;
     border: 3px solid gold;
-    font-size: 28px;
-} */
+    font-size: 20px;
+    max-width: unset;
+} 
