@@ -83,7 +83,6 @@ body {
   }
 
   /* makes links bold on hover */
-
   .nav-link:hover {
     font-weight: bold;
     text-shadow: 0 0 4px #c05243;
@@ -93,23 +92,23 @@ body {
   .title {
     margin-top: 125px;
   }
+ 
+  .index-img {
+    width: 47%;
+    height: auto;
+    padding: 0;
+    margin-left: 2%;
+  }
+
+.index-img:hover {
+  filter: grayscale(100%);
+  }
 
 
-<<<<<<< Updated upstream
-  /*h1 {
-    margin-top: 100px;
-  }*/
-  
   /* CSS from History Below */
-
-=======
-  
-  /* CSS from History Below */
-
 
   /*making paragraphs not go past 50% to insert images on the right side*/ 
 
->>>>>>> Stashed changes
   p{
     margin-left: 2%;
     font-family: Arial, Helvetica, sans-serif;
@@ -119,7 +118,7 @@ body {
     line-height: 1.5em;
     }
 
-p2 {
+  p2 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 24px;
   margin-top: 30px;
@@ -151,48 +150,3 @@ h2{
 
   /* CSS from History Above */
 
-.index-img {
-    width: 47%;
-    height: auto;
-    padding: 0;
-    margin-left: 2%;
-  }
-
-.index-img:hover {
-  filter: grayscale(100%);
-  }
-
-
-  /* 
-
-  .content-left30 {
-    max-width: 30%;
-    justify-content: left;
-    text-align: left;
-    flex-direction: column;
-
-  }
-
-  .content-left70 {
-    max-width: 70%;
-    justify-content: left;
-    text-align: left;
-    flex-direction: column;
-  }
-  
-
-  .content-right30 {
-    width: 30%;
-    justify-content: right;
-    text-align: right;
-    flex-direction: column;
-  }
-
-  .content-right70 {
-    width: 70%;
-    justify-content: right;
-    text-align: right;
-    flex-direction: column;
-  }
-  
-  */
