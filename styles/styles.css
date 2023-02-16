@@ -107,8 +107,6 @@ body {
 
   /* CSS from History Below */
 
-  /*making paragraphs not go past 50% to insert images on the right side*/ 
-
   p{
     margin-left: 2%;
     font-family: Arial, Helvetica, sans-serif;
@@ -141,6 +139,11 @@ h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 
+h2:hover{
+  font-weight: bold;
+  text-shadow: 0 0 4px #c05243;
+}
+
 .center{
     display: block;
     margin-left: auto;
@@ -148,5 +151,19 @@ h2{
     width: 50%;
     }
 
+.historyimg{
+    padding-left: 3%;
+    margin: auto;
+    width: 40%;
+    }
+
   /* CSS from History Above */
 
+  /*NBA Footer*/
+  .footer-NBA { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    margin: auto;
+}
