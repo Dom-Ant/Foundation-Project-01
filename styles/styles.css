@@ -12,7 +12,6 @@ body {
     display: block;
             margin-left: auto;
             margin-right: auto;
-            width: 50%;
     }
 
   .container {
@@ -105,12 +104,45 @@ body {
   h1 {
     margin-top: 100px;
   }
-
   
+  /* CSS from History Below */
+
+
   /*making paragraphs not go past 50% to insert images on the right side*/ 
   p{
     max-width: 50%;
   }
+
+  p{
+    max-width: 50%;
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    border: 2px solid;
+    padding: 0.5em;
+    line-height: 1.5em;
+    }
+
+h1{
+    color: chocolate;
+    text-align: center;
+    font-size: 4em;
+    font-family:Arial, Helvetica, sans-serif
+    }
+
+h2{
+    color:black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
+
+  /* CSS from History Above */
 
 .index-img {
     width: 47%;
