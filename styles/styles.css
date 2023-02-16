@@ -159,3 +159,11 @@ h2:hover{
 
   /* CSS from History Above */
 
+  /*NBA Footer*/
+  .footer-NBA { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    margin: auto;
+}
