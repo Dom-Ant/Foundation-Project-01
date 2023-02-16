@@ -45,8 +45,7 @@ body {
     padding-left: 460px;
     padding-right: 460px;
     font-size: 2rem;
-    font-color: black;
-    float: ;
+    color: black;
     width: 100%;
   }
 
@@ -56,7 +55,7 @@ body {
   }
 
   #home-btn {
-    align-items: left;
+    justify-content: flex-start;
     width: 50px;
     height: auto;
   }
@@ -87,7 +86,7 @@ body {
 
   .nav-link:hover {
     font-weight: bold;
-    text-shadow: 0
+    text-shadow: 0 0 4px #c05243;
 }
 
 
