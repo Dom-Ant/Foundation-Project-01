@@ -7,7 +7,7 @@ body {
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
     min-height: 100vh;
-    max-width: 100vh;
+    /*max-width: 100vh;*/
     background-color: bisque;
     display: block;
             margin-left: auto;
@@ -101,14 +101,11 @@ body {
   }
 
 
-  h1 {
+  /*h1 {
     margin-top: 100px;
-  }
+  }*/
   
   /* CSS from History Below */
-
-
-  /*making paragraphs not go past 50% to insert images on the right side*/ 
 
   p{
     max-width: 50%;
