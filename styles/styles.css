@@ -9,6 +9,10 @@ body {
     min-height: 100vh;
     max-width: 100vh;
     background-color: bisque;
+    display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
     }
 
   .container {
