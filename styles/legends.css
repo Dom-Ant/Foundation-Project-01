@@ -21,19 +21,20 @@ html {
     width: 450px;
     float: right;
     border: 1px dotted goldenrod; 
-} 
+} */
 
 .paragraph {
+    max-width: 100%;
     text-align: justify;
     float: left;
-    width: 50%;
+    width: auto;
     padding-right: 18px;
     padding-top: 15px;
     padding-left: 15px;
     padding-bottom: 15px;
     border: 2px solid black;
     background-color: white;
-} */
+} 
 
 /* .title-legends {
     padding-left: 50px;

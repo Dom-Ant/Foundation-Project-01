@@ -109,9 +109,6 @@ body {
 
 
   /*making paragraphs not go past 50% to insert images on the right side*/ 
-  p{
-    max-width: 50%;
-  }
 
   p{
     max-width: 50%;
