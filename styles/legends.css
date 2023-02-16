@@ -2,6 +2,9 @@ html {
     font-family: monospace;
 }
 
+body{
+    max-width: 60%;
+}
 .pic {
     width: 80%;
 }  
