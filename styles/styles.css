@@ -149,6 +149,14 @@ h2{
   filter: grayscale(100%);
   }
 
+.footer-NBA { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    margin: auto;
+}
+
 
   /* 
 
