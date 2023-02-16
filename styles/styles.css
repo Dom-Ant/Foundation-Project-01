@@ -94,22 +94,8 @@ body {
     margin-top: 125px;
   }
 
-
-<<<<<<< Updated upstream
-  /*h1 {
-    margin-top: 100px;
-  }*/
-  
   /* CSS from History Below */
 
-=======
-  
-  /* CSS from History Below */
-
-
-  /*making paragraphs not go past 50% to insert images on the right side*/ 
-
->>>>>>> Stashed changes
   p{
     margin-left: 2%;
     font-family: Arial, Helvetica, sans-serif;
@@ -142,11 +128,22 @@ h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 
+h2:hover{
+  font-weight: bold;
+  text-shadow: 0 0 4px #c05243;
+}
+
 .center{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    }
+
+.historyimg{
+    padding-left: 3%;
+    margin: auto;
+    width: 40%;
     }
 
   /* CSS from History Above */
