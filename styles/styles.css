@@ -81,6 +81,7 @@ body {
   .nav-link {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
+    font-weight: bolder;
   }
 
   /* makes links bold on hover */
