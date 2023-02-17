@@ -148,7 +148,13 @@ body {
   margin-top: 30px;
   padding: 0.5em;
   line-height: 1.5em;
-  text-align:center;
+  text-align: center;
+}
+
+.logos {
+  max-width: 300px;
+  padding-left: 120px;
+  padding-right: 100px;
 }
 
   /* CSS from History Below */
