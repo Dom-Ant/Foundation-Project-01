@@ -12,11 +12,10 @@ body {
     min-height: 100vh;
     background-color: bisque;
     display: block;
-            margin-left: auto;
-            margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
     }
-
-
+    
   header {
     position: fixed;
     height: 50px;
@@ -50,10 +49,6 @@ body {
     width: 100%;
   }
 
-  #icons:hover {
-    font-weight: bold;
-    text-shadow: 0 0 4px #c05243;
-  }
 
   #home-btn {
     justify-content: flex-start;
@@ -89,7 +84,6 @@ body {
     font-weight: bold;
     text-shadow: 0 0 4px #c05243;
 }
-
 
   .title {
     margin-top: 125px;
@@ -127,46 +121,6 @@ body {
     opacity: 0.7;
   }
 
-/*
-
-  / Parent Container /
-.content_img{
-  position: relative;
-  width: 200px;
-  height: 200px;
-  float: left;
-  margin-right: 10px;
-}
-
-/ Child Text Container /
-.content_img div{
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  background: black;
-  color: white;
-  margin-bottom: 5px;
-  font-family: sans-serif;
-  opacity: 0;
-  visibility: hidden;
-  -webkit-transition: visibility 0s, opacity 0.5s linear; 
-  transition: visibility 0s, opacity 0.5s linear;
-}
-
-/* Hover on Parent Container /
-.content_img:hover{
-  cursor: pointer;
-}
-
-.content_img:hover div{
-  width: 150px;
-  padding: 8px 15px;
-  visibility: visible;
-  opacity: 0.7; 
-}
-
-*/
-
 .index-text {
   font-family: Helvetica, sans-serif;
   font-size: 24px;
@@ -183,8 +137,6 @@ body {
   padding-left: 120px;
   padding-right: 100px;
 }
-
-  /* CSS from History Below */
 
   p{
     margin-left: 2%;
@@ -227,8 +179,6 @@ h2:hover{
     margin: auto;
     width: 40%;
     }
-
-  /* CSS from History Above */
 
   /*NBA Footer*/
   .footer-NBA { 
