@@ -1,5 +1,8 @@
 /* Path: styles/styles.css */
 
+/* https://github.com/Dom-Ant/Foundation-Project-01 */
+
+
 @import url(//db.onlinewebfonts.com/c/7fe6ebc7b32f1481c637be4cb2463e6c?family=FrontageW00-3D);
 
 @font-face {font-family: "FrontageW00-3D"; src: url("//db.onlinewebfonts.com/t/7fe6ebc7b32f1481c637be4cb2463e6c.eot"); src: url("//db.onlinewebfonts.com/t/7fe6ebc7b32f1481c637be4cb2463e6c.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/7fe6ebc7b32f1481c637be4cb2463e6c.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/7fe6ebc7b32f1481c637be4cb2463e6c.woff") format("woff"), url("//db.onlinewebfonts.com/t/7fe6ebc7b32f1481c637be4cb2463e6c.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/7fe6ebc7b32f1481c637be4cb2463e6c.svg#FrontageW00-3D") format("svg"); }
