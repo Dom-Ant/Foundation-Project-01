@@ -45,16 +45,18 @@ body {
   }
 
   .social-icons {
-    padding-left: 460px;
-    padding-right: 460px;
+
     font-size: 2rem;
     color: black;
-    width: 100%;
-
-    justify-content: space-around;
-
+    width: 95vw;
+    display: flex;
+    justify-content: center;
   }
 
+  .center-i {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 
   #home-btn {
     justify-content: flex-start;
