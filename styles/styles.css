@@ -188,6 +188,10 @@ h2:hover{
     width: 40%;
     }
 
+.currentheader{
+  color: brown;
+  }
+
   /*NBA Footer*/
   .footer-NBA { 
     display: flex;
